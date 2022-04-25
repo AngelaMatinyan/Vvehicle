@@ -98,7 +98,7 @@ public class Vehicle {
                 ", mark='" + mark + '\'' +
                 ", color='" + color + '\'' +
                 ", subtype=" + subtype +
-                ", fueltype=" + fueltype +
+                ", fuel type=" + fueltype +
                 '}';
     }
 
