@@ -3,7 +3,7 @@ package com.vehicle;
 public class Vehicle {
     private int maxSpeed;
 
-
+//testam
     private double maxWeight;
     private int enginePower;
     private float engineVolume;
